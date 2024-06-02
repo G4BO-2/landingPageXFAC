@@ -72,7 +72,7 @@ nav {
 }
 
 main {
-    display: flex;
+    display: block;
     justify-content: space-around;
 }
 
